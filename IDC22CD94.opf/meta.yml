@@ -1,0 +1,26 @@
+id: IDC22CD94
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:14:45.729018'
+last_modified: '2022-06-05T20:14:45.729029'
+parser: null
+source_metadata:
+  title: Thönmi Sambhoṭa Series
+  language: en
+  description: 'Texts by and about Thönmi Sambhoṭa, who is credited with inventing
+    the Tibetan writing system and composing the country''s first grammatical treatises:'
+  volume:
+    f84D4:
+      title: 'A Blossoming of the Intellect: In Praise of the Great Pioneer Thönmi
+        Sambhoṭa'
+      base_file: f84D4.txt
+      order: 1
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
